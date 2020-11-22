@@ -1,2 +1,2 @@
 # hello-world
-First try
+Hi everyone. Nice to have this guide. Thank you!
